@@ -1,1 +1,1 @@
-# gurer
+print ("hello world")
